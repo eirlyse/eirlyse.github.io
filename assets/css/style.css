@@ -1,0 +1,72 @@
+
+
+.logo{
+    background-color: #4aaaa5;
+    width: 200px;
+    height: 65px;
+    float: left;
+    text-align: center;
+}
+
+header {
+    height: 65px;
+    width: auto;
+    background-color: #fff;
+    border-bottom: 2px solid #ccc;
+    
+}
+
+nav {
+    float: right;
+}
+
+body{
+
+    background-image: url("/images/debut_light_@2X.png");
+    background-repeat: repeat-y
+    
+}
+
+h1{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+}
+
+
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+a {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+img {
+    float: left;
+    position: relative;
+    padding: 20px;
+}
+
+footer {
+    clear: both;
+    background-color: #666;
+    height: 80px;
+    text-align: center;
+    color: #fff;
+    border-top: 5px solid #4aaaa5;
+    font-size: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
