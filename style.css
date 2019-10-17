@@ -145,10 +145,10 @@ input {
 }
 
 #title1 {
-    position: absolute;
+    /* position: absolute; */
     width: 150px;
     height: 40px;
-    background-color: #4aaaa5;
+    /* background-color: #4aaaa5; */
     z-index: 3;
     padding: 20px;
 }
